@@ -2,6 +2,12 @@
 
 Welcome to my portfolio website! This site showcases my work, including AI/ML projects, research, and professional experiences.
 
+<div align="center">
+    <img src="assets/images/readme_3.png" alt="First_page" width="30%">
+    <img src="assets/images/readme_2.png" alt="blog" width="30%">
+    <img src="assets/images/readme_1.png" alt="projects" width="30%">
+</div>
+
 ## Overview
 
 This website highlights:
